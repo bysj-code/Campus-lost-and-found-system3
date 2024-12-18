@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#2A8E48",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "我的寻物启事",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
